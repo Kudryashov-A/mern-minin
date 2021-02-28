@@ -1,6 +1,6 @@
 {
-   "port": 5000,
+   "port": 80,
    "jwtSecret": "minin mern",
    "mongoUri": "mongodb+srv://Andrey:Optima28@cluster0.kset2.mongodb.net/app?retryWrites=true&w=majority",
-   "baseUrl": "http://localhost:5000"
+   "baseUrl": "http://serene-shore-07619.herokuapp.com"
 }
