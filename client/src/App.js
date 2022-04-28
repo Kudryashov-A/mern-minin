@@ -1,3 +1,4 @@
+import React from 'react';
 import { BrowserRouter } from 'react-router-dom';
 import { useAuth } from './hooks/auth.hook';
 import { useRoutes } from './routes';
